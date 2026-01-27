@@ -1,0 +1,13 @@
+#include <iostream>
+#include <conio.h>
+using namespace std;
+int main()
+{
+    int a, b;
+    cout << "Jay Shree Mahakal infinite times" << endl;
+
+    cin >> a >> b;
+    cout << "You lucky number: "
+         << a << b << endl;
+    return 0;
+}
