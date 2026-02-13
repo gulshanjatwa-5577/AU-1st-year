@@ -1,11 +1,9 @@
+//object orintrd programing 
+
 #include <iostream>
 using namespace std;
-int main()
-{
+int main(){
     system("cls");
-    cout << "gulshan";
-    cout << "  \nJatwa"; 
-
-    
+    cout<<"Hello World ";
     return 0;
 }

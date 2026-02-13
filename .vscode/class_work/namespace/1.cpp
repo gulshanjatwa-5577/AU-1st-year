@@ -1,3 +1,5 @@
+// Basic Namespace Example:
+
 #include<iostream>
 using namespace std;
  namespace G1{
